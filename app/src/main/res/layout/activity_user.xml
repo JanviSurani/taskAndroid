@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ListView.UserActivity">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/account_white" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/countryProfile"
+        android:layout_width="304dp"
+        android:layout_height="35dp"
+        android:layout_below="@id/profile_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text=""
+        android:textColor="@color/black" />
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/nameProfile"
+        android:layout_width="298dp"
+        android:layout_height="42dp"
+        android:layout_below="@id/profile_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="102dp"
+        android:text=""
+        android:textColor="@color/black" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/phoneProfile"
+        android:layout_width="301dp"
+        android:layout_height="39dp"
+        android:layout_below="@id/profile_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp"
+        android:text=""
+        android:textColor="@color/black" />
+
+
+</RelativeLayout>

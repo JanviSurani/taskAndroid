@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <string name="hello">नमस्तेदुनिया</string>
+        <string name="tutlane">ट्यूटोरियलगली</string>
+        <string name="android">एंड्रॉयडट्यूटोरियल</string>
+        <string name="reigster">रजिस्टर</string>
+
+</resources>

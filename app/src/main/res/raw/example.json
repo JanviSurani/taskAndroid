@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "firstName":"Jenisha",
+      "lastName": "Surani",
+      "phoneNumber": "123456",
+      "emailAddress": "jenisha@gmail.com"
+    },
+    {
+      "userId": 2,
+      "firstName":"Priya",
+      "lastName": "Surani",
+      "phoneNumber": "983456",
+      "emailAddress": "priya@gmail.com"
+    },
+    {
+      "userId": 3,
+      "firstName":"Setu",
+      "lastName": "Surani",
+      "phoneNumber": "128976",
+      "emailAddress": "setu@gmail.com"
+    },
+    {
+      "userId": 4,
+      "firstName":"Parth",
+      "lastName": "Surani",
+      "phoneNumber": "876546",
+      "emailAddress": "parth@gmail.com"
+    },
+    {
+      "userId": 5,
+      "firstName":"Sneh",
+      "lastName": "Surani",
+      "phoneNumber": "567894",
+      "emailAddress": "sneh@gmail.com"
+    }
+  ]
+}
